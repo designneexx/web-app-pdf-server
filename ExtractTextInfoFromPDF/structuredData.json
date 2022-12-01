@@ -1,0 +1,2525 @@
+{
+  "version": {
+    "json_export": "184",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1006.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "70 77 9C 23 B2 B5 B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "31 45 20 34 39 20 39 39 20 32 33 20 42 32 20 42 35 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "is_encrypted": false,
+    "has_acroform": false,
+    "is_digitally_signed": false,
+    "pdfua_compliance_level": "",
+    "page_count": 2,
+    "has_embedded_files": false,
+    "is_certified": false,
+    "is_XFA": false,
+    "language": "ru"
+  },
+  "elements": [
+    {
+      "Bounds": [
+        515.905517578125,
+        810.7086639404297,
+        538.5826721191406,
+        833.3858337402344
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Figure",
+      "attributes": {
+        "BBox": [
+          515.8589999999967,
+          810.6909999999916,
+          538.5379999999714,
+          833.3699999999954
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        42.519683837890628,
+        686.8818969726563,
+        113.38583374023438,
+        781.3700714111328
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Figure[2]",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          686.8559999999998,
+          113.3949999999968,
+          781.4119999999821
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        740.2303924560547,
+        494.2335968017578,
+        804.1553955078125
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current Bold",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current Bold",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "EQBVWS+GoNotoCurrentBold-Regular",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect/Title",
+      "Text": "Орлов Михаил Васильевич ",
+      "TextSize": 25.0,
+      "attributes": {
+        "LineHeight": 30
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        738.9544067382813,
+        306.1995849609375,
+        762.0034027099609
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect/P",
+      "Text": "Мужчина, 21 год, родился 12 июля 2001 ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        712.9533996582031,
+        353.02659606933596,
+        736.0023956298828
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect/P[2]",
+      "Text": "+7 (999) 1628770 — предпочитаемый способ связи ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        699.9573974609375,
+        269.0745849609375,
+        723.0063934326172
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect/P[3]",
+      "Text": "webmasterondesign@gmail.com ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        673.9564056396484,
+        310.2946014404297,
+        697.0054016113281
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/P[4]/Sub",
+      "Text": "Проживает: Казань, м. Проспект Победы ",
+      "TextSize": 9.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        660.9604034423828,
+        384.5355987548828,
+        684.0093994140625
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/P[4]/Sub[2]",
+      "Text": "Гражданство: Россия, есть разрешение на работу: Россия ",
+      "TextSize": 9.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        647.9644012451172,
+        363.4936065673828,
+        671.0133972167969
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/P[4]/Sub[3]",
+      "Text": "Не готов к переезду, готов к редким командировкам ",
+      "TextSize": 9.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        607.1224060058594,
+        223.27149963378907,
+        635.2933959960938
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/H1",
+      "Text": "Желаемая должность и зарплата ",
+      "TextSize": 11.0
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        574.2825012207031,
+        557.9897308349609,
+        620.8464965820313
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current Bold",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current Bold",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PDOXRN+GoNotoCurrentBold-Regular",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/P",
+      "Text": "Front-End разработчик 130 000 руб.",
+      "TextSize": 16.0,
+      "attributes": {
+        "LineHeight": 13.875,
+        "SpaceAfter": -8.874979999999596,
+        "TextAlign": "End"
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        572.4505004882813,
+        117.885498046875,
+        595.4994964599609
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/P[2]",
+      "Text": "Специализации: ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        56.69450378417969,
+        559.4544982910156,
+        193.99850463867188,
+        582.5034942626953
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/P[3]",
+      "Text": "—  Программист, разработчик ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        546.45849609375,
+        172.62350463867188,
+        569.5075073242188
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/P[4]",
+      "Text": "Занятость: полная занятость ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        520.4665069580078,
+        330.04249572753909,
+        556.5115051269531
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/P[5]",
+      "Text": "График работы: удаленная работа, гибкий график, полный день Желательное время в пути до работы: не имеет значения ",
+      "TextSize": 9.0,
+      "attributes": {
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        36.03059387207031,
+        562.7895965576172,
+        795.1752014160156
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table",
+      "attributes": {
+        "NumCol": 2,
+        "NumRow": 6,
+        "Placement": "Block",
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        479.6184997558594,
+        117.35249328613281,
+        507.7895050048828
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR/TH",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          486.3439999999973,
+          120.23499999999695,
+          498.3439999999973
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [
+          null,
+          [
+            0.8470609999999965,
+            0.8470609999999965,
+            0.8470609999999965
+          ],
+          null,
+          null
+        ],
+        "BorderStyle": [
+          "None",
+          "Solid",
+          "None",
+          "None"
+        ],
+        "BorderThickness": [
+          0,
+          0.5,
+          0,
+          0
+        ],
+        "ColIndex": 0,
+        "Height": 12,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 77.75
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        479.6184997558594,
+        117.35249328613281,
+        507.7895050048828
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR/TH/P",
+      "Text": "Опыт работы ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.25
+      }
+    },
+    {
+      "Bounds": [
+        114.60249328613281,
+        479.6184997558594,
+        224.54750061035157,
+        507.7895050048828
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR/TH[2]",
+      "attributes": {
+        "BBox": [
+          117.47499999999855,
+          486.3439999999973,
+          553.0569999999716,
+          498.3439999999973
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [
+          null,
+          [
+            0.8470609999999965,
+            0.8470609999999965,
+            0.8470609999999965
+          ],
+          null,
+          null
+        ],
+        "BorderStyle": [
+          "None",
+          "Solid",
+          "None",
+          "None"
+        ],
+        "BorderThickness": [
+          0,
+          0.5,
+          0,
+          0
+        ],
+        "ColIndex": 1,
+        "Height": 12,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 435.625
+      }
+    },
+    {
+      "Bounds": [
+        114.60249328613281,
+        479.6184997558594,
+        224.54750061035157,
+        507.7895050048828
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR/TH[2]/P",
+      "Text": " — 4 года 6 месяцев ",
+      "TextSize": 11.0,
+      "attributes": {
+        "LineHeight": 13.25
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        442.69459533691409,
+        113.89549255371094,
+        485.18260192871096
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          356.50999999999478,
+          120.23499999999695,
+          487.42399999999909
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [
+          [
+            0.8470609999999965,
+            0.8470609999999965,
+            0.8470609999999965
+          ],
+          null,
+          null,
+          null
+        ],
+        "BorderStyle": [
+          "Solid",
+          "None",
+          "None",
+          "None"
+        ],
+        "BorderThickness": [
+          0.5,
+          0,
+          0,
+          0
+        ],
+        "ColIndex": 0,
+        "Height": 130.875,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 77.75
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        442.69459533691409,
+        113.89549255371094,
+        485.18260192871096
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD/P",
+      "Text": "Февраль 2021 — настоящее время 1 год 11 месяцев ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        357.78660583496096,
+        555.0946044921875,
+        489.7626037597656
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD[2]",
+      "attributes": {
+        "BBox": [
+          120.23499999999695,
+          356.50999999999478,
+          553.0569999999716,
+          487.42399999999909
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [
+          [
+            0.8470609999999965,
+            0.8470609999999965,
+            0.8470609999999965
+          ],
+          null,
+          null,
+          null
+        ],
+        "BorderStyle": [
+          "Solid",
+          "None",
+          "None",
+          "None"
+        ],
+        "BorderThickness": [
+          0.5,
+          0,
+          0,
+          0
+        ],
+        "ColIndex": 1,
+        "Height": 130.875,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 432.875
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        459.07859802246096,
+        208.24659729003907,
+        489.7626037597656
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current Bold",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current Bold",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "EQBVWS+GoNotoCurrentBold-Regular",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD[2]/P",
+      "Text": "Совкомбанк ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        448.7785949707031,
+        254.5845947265625,
+        471.8276062011719
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD[2]/P[2]",
+      "Text": "Казань, www.sovcombank.ru ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        435.7825927734375,
+        218.84559631347657,
+        458.83160400390627
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD[2]/P[3]",
+      "Text": "Финансовый сектор ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        422.78660583496096,
+        147.45761108398438,
+        445.8356018066406
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD[2]/L/LI/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        147.4575958251953,
+        422.78660583496096,
+        170.7855987548828,
+        445.8356018066406
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD[2]/L/LI/LBody",
+      "Text": "Банк ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        400.0305938720703,
+        262.9786071777344,
+        430.7626037597656
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD[2]/P[4]",
+      "Text": "Старший разработчик ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        357.78660583496096,
+        555.0946044921875,
+        406.8276062011719
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TD[2]/P[5]/Sub",
+      "Text": "Разработка приложений, в основном систем администрирования на базе React. Работа с Apollo GraphQl/React-query, разработка чатов, виджета чата, разделение пользовательской АРМ на роли, правки багов, получение, загрузка файлов по защищенному токену ",
+      "TextSize": 9.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        312.69459533691409,
+        112.47145080566406,
+        355.18260192871096
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          187.91599999999745,
+          120.23499999999695,
+          356.50999999999478
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 168.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 77.75
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        312.69459533691409,
+        112.47145080566406,
+        355.18260192871096
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD/P",
+      "Text": "Сентябрь 2020 — Ноябрь 2020 3 месяца ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        188.77859497070313,
+        460.19859313964846,
+        359.7626037597656
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]",
+      "attributes": {
+        "BBox": [
+          120.23499999999695,
+          187.91599999999745,
+          553.0569999999716,
+          356.50999999999478
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 168.625,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 432.875
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        329.07859802246096,
+        273.9105987548828,
+        359.7626037597656
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current Bold",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current Bold",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "EQBVWS+GoNotoCurrentBold-Regular",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/P",
+      "Text": "Сантехника-онлайн.Ру ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        318.7785949707031,
+        217.3245849609375,
+        341.8276062011719
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/P[2]",
+      "Text": "santehnika-online.ru ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        305.7825927734375,
+        220.32159423828126,
+        328.83160400390627
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/P[3]",
+      "Text": "Розничная торговля ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        292.78660583496096,
+        147.45761108398438,
+        315.8356018066406
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        147.4575958251953,
+        292.78660583496096,
+        327.31358337402346,
+        315.8356018066406
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI/LBody",
+      "Text": "Розничная сеть (DIY и товары для дома) ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        279.7906036376953,
+        147.45761108398438,
+        302.839599609375
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI[2]/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        147.4575958251953,
+        279.7906036376953,
+        291.2236022949219,
+        302.839599609375
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI[2]/LBody",
+      "Text": "Несетевая розница, мелкий опт ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        266.7946014404297,
+        147.45761108398438,
+        289.8435974121094
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI[3]/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        253.79859924316407,
+        333.92857360839846,
+        289.8435974121094
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI[3]/LBody",
+      "Text": "Интернет-магазин Товары народного потребления (непищевые) ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        240.80259704589845,
+        147.45761108398438,
+        263.8515930175781
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI[4]/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        147.4575958251953,
+        240.80259704589845,
+        353.8455810546875,
+        263.8515930175781
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI[4]/LBody",
+      "Text": "Сантехника (продвижение, оптовая торговля) ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        227.8065948486328,
+        147.45761108398438,
+        250.85560607910157
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI[5]/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        147.4575958251953,
+        227.8065948486328,
+        438.9225769042969,
+        250.85560607910157
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/L/LI[5]/LBody",
+      "Text": "Посуда, свет, товары для дома  (продвижение, оптовая торговля) ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        205.0305938720703,
+        227.92657470703126,
+        235.76260375976563
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/P[4]/Sub",
+      "Text": "Middle Front-End ",
+      "TextSize": 12.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        188.77859497070313,
+        460.19859313964846,
+        211.82760620117188
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/P[4]/Sub[2]",
+      "Text": "Верстка, поддержка компонентов, правки багов, улучшение функционала ",
+      "TextSize": 9.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        143.69459533691407,
+        112.47145080566406,
+        186.18260192871095
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          46.80209999999897,
+          120.23499999999695,
+          187.91599999999745
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 141.125,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 77.75
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        143.69459533691407,
+        112.47145080566406,
+        186.18260192871095
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD/P",
+      "Text": "Сентябрь 2019 — Июль 2020 11 месяцев ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 11
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        36.03059387207031,
+        529.3816070556641,
+        190.76260375976563
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]",
+      "attributes": {
+        "BBox": [
+          120.23499999999695,
+          46.80209999999897,
+          553.0569999999716,
+          187.91599999999745
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 1,
+        "Height": 141.125,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 432.875
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        160.07859802246095,
+        164.26666259765626,
+        190.76260375976563
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current Bold",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current Bold",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "PDOXRN+GoNotoCurrentBold-Regular",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/P",
+      "Text": "Kodix ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        149.77859497070313,
+        200.6025848388672,
+        172.82760620117188
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/P[2]",
+      "Text": "Казань, kodi.xxx ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        136.7825927734375,
+        417.47560119628909,
+        159.83160400390626
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/P[3]",
+      "Text": "Информационные технологии, системная интеграция, интернет ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        123.78660583496094,
+        147.45761108398438,
+        146.83560180664063
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/L/LI/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        97.79460144042969,
+        529.3816070556641,
+        146.83560180664063
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/L/LI/LBody",
+      "Text": "Интернет-компания (поисковики, платежные системы, соц.сети, информационно-познавательные и развлекательные ресурсы, продвижение сайтов и прочее) ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        84.79859924316406,
+        147.45761108398438,
+        107.84759521484375
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/L/LI[2]/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        147.4575958251953,
+        84.79859924316406,
+        327.8986053466797,
+        107.84759521484375
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/L/LI[2]/LBody",
+      "Text": "Разработка программного обеспечения ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        71.80259704589844,
+        147.45761108398438,
+        94.85159301757813
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/L/LI[3]/Lbl",
+      "Text": "• ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        141.7335968017578,
+        58.80659484863281,
+        496.1085968017578,
+        94.85159301757813
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/L/LI[3]/LBody",
+      "Text": "Системная интеграция,  автоматизации технологических и бизнес-процессов предприятия, ИТ-консалтинг ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        36.03059387207031,
+        261.8625946044922,
+        66.76260375976563
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/P[4]",
+      "Text": "Frontend-разработчик ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        772.1262054443359,
+        511.67860412597659,
+        795.1752014160156
+      ],
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          770.612999999983,
+          560.4969999999739,
+          787.2919999999867
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 2,
+        "Height": 16.625,
+        "InlineAlign": "Center",
+        "RowIndex": 4,
+        "Width": 518
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        772.1262054443359,
+        511.67860412597659,
+        795.1752014160156
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD/P",
+      "Text": "Интеграция с серверной частью, построение UI/UX (сторибук/Storybook), SSR, верстка ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        727.0422058105469,
+        105.83149719238281,
+        769.5301971435547
+      ],
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          687.0959999999905,
+          115.19499999999971,
+          770.612999999983
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 83.5,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 72.75
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        738.0422058105469,
+        104.03944396972656,
+        769.5301971435547
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD/P/Sub",
+      "Text": "Январь 2017 — Май 2018 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        727.0422058105469,
+        105.83149719238281,
+        747.5301971435547
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD/P/Sub[2]",
+      "Text": "1 год 5 месяцев ",
+      "TextSize": 8.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        681.1302032470703,
+        562.7895965576172,
+        774.1101989746094
+      ],
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[2]",
+      "attributes": {
+        "BBox": [
+          115.19499999999971,
+          687.0959999999905,
+          560.4969999999739,
+          770.612999999983
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 1,
+        "Height": 83.5,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 445.125
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        743.4261932373047,
+        229.84661865234376,
+        774.1101989746094
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current Bold",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current Bold",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "EQBVWS+GoNotoCurrentBold-Regular",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[2]/P",
+      "Text": "Фриланс/Kwork ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        733.1262054443359,
+        170.78553771972657,
+        756.1752014160156
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[2]/P[2]",
+      "Text": "kwork.ru/ ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        710.3782043457031,
+        369.1186218261719,
+        741.1101989746094
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[2]/P[3]/Sub",
+      "Text": "Дизайн сайтов, верстка, посадка на CMS ",
+      "TextSize": 12.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        694.1262054443359,
+        562.7895965576172,
+        717.1752014160156
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[2]/P[3]/Sub[2]",
+      "Text": "Дизайн сайтов, верстка и посадка на CMS (Лендинги, новостные порталы, блоги и т.д). Правки на ",
+      "TextSize": 9.0,
+      "attributes": {
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        681.1302032470703,
+        467.53363037109377,
+        704.17919921875
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[2]/P[4]",
+      "Text": "сайте(сделать адаптивным, убрать ошибки из консоли, поправить верстку). ",
+      "TextSize": 9.0,
+      "attributes": {
+        "LineHeight": 10.75
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        640.2942047119141,
+        118.22149658203125,
+        668.4651947021484
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[3]/H1",
+      "Text": "Образование ",
+      "TextSize": 11.0
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        620.6262969970703,
+        165.1584930419922,
+        648.7973022460938
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[4]/H1",
+      "Text": "Среднее специальное ",
+      "TextSize": 11.0
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        599.3742980957031,
+        62.903533935546878,
+        619.8623046875
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[4]/P",
+      "Text": "2022 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": -10.375
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        555.4622955322266,
+        539.0145874023438,
+        623.4423065185547
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current Bold",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current Bold",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "EQBVWS+GoNotoCurrentBold-Regular",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[4]/P[2]",
+      "Text": "Межрегиональный центр компетенций - Казанский техникум информационных технологий и связи (МЦК-КТИТС, бывш. КЭТС) Информационные сети и программирование, Разработчик веб и мультимедийных приложений ",
+      "TextSize": 12.0,
+      "attributes": {
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        514.6262969970703,
+        145.49049377441407,
+        542.7973022460938
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[5]/H1",
+      "Text": "Ключевые навыки ",
+      "TextSize": 11.0
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        496.7864074707031,
+        211.5825958251953,
+        520.1903991699219
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[5]/P",
+      "Text": "Знание языков Русский — Родной ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        428.8704071044922,
+        488.8704833984375,
+        490.4803924560547
+      ],
+      "Page": 1,
+      "Path": "//Document/Sect[5]/Table",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          434.86599999999455,
+          489.09999999999129,
+          483.3439999999973
+        ],
+        "NumCol": 2,
+        "Placement": "Block",
+        "SpaceAfter": 17.5
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        466.702392578125,
+        75.14349365234375,
+        487.1903991699219
+      ],
+      "Page": 1,
+      "Path": "//Document/Sect[5]/Table/TR/TH",
+      "attributes": {
+        "BBox": [
+          42.47829999999885,
+          434.86599999999455,
+          127.43499999999767,
+          483.2239999999874
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [
+          null,
+          null,
+          null,
+          [
+            0.83137499999998,
+            0.83137499999998,
+            0.83137499999998
+          ]
+        ],
+        "BorderStyle": [
+          "None",
+          "None",
+          "None",
+          "Solid"
+        ],
+        "ColIndex": 0,
+        "Height": 48.375,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 85
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        466.702392578125,
+        75.14349365234375,
+        487.1903991699219
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[5]/Table/TR/TH/P",
+      "Text": "Навыки ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        428.8704071044922,
+        488.8704833984375,
+        490.4803924560547
+      ],
+      "Page": 1,
+      "Path": "//Document/Sect[5]/Table/TR/TH[2]",
+      "attributes": {
+        "BBox": [
+          127.31499999999869,
+          434.7459999999992,
+          489.2199999999866,
+          483.3439999999973
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [
+          0.83137499999998,
+          0.83137499999998,
+          0.83137499999998
+        ],
+        "BorderStyle": [
+          "Solid",
+          "Solid",
+          "Solid",
+          "Double"
+        ],
+        "BorderThickness": [
+          0.125,
+          0.125,
+          0,
+          0.125
+        ],
+        "ColIndex": 1,
+        "Height": 48.625,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 361.875
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        428.8704071044922,
+        488.8704833984375,
+        490.4803924560547
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Go Noto Current",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ESAEOF+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[5]/Table/TR/TH[2]/P/StyleSpan",
+      "Text": " JavaScript      Node.js      Sass     Кроссбраузерная верстка  Git      HTML5  CSS3      TypeScript      React      Code review      Mobx      Storybook      Next.js  SSR      SPA/PWA      Data Fetching      GraphQl      TailwindCSS      Redux ",
+      "TextSize": 10.0,
+      "attributes": {
+        "LineHeight": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        388.95440673828127,
+        210.02749633789063,
+        417.1253967285156
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/H1",
+      "Text": "Дополнительная информация ",
+      "TextSize": 11.0,
+      "attributes": {
+        "SpaceAfter": 10.125
+      }
+    },
+    {
+      "Bounds": [
+        42.519500732421878,
+        372.0343933105469,
+        78.05549621582031,
+        392.52239990234377
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/P",
+      "Text": "Обо мне ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": -13
+      }
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        319.1343994140625,
+        549.8296051025391,
+        394.1674041748047
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/P[2]",
+      "Text": "Меня зовут Михаил,  я работаю веб-разработчиком более 3 лет, сейчас мой основной стэк это React + Redux + react-query + swr + nextjs + TypeScript. Есть опыт работы с Apollo.js, оптимизация больших объемов данных на странице приложения, кэширования запросов от api для более быстрого отклика, Optimistic Response (пользователь видит некоторые обновленные данные еще до успешного выполнения мутации). ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        293.14239501953127,
+        535.5825958251953,
+        329.18739318847659
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/P[3]",
+      "Text": "Всегда стремлюсь создавать отзывчивые, удобные и надежные веб приложения, стараюсь найти лучшее решение по конкретную задачу. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        127.55859375,
+        267.15040588378909,
+        524.4496002197266,
+        303.1954040527344
+      ],
+      "Font": {
+        "alt_family_name": "Go Noto Current",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Go Noto Current",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "LNIANY+GoNotoCurrent-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "ru",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/P[4]",
+      "Text": "Свобдное время я переодически посвещаю своему проекту на GitHub, читаю статьи про Front-End на Medium или Хабре ",
+      "TextSize": 9.0,
+      "attributes": {
+        "SpaceAfter": 18
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ]
+      },
+      "height": 841.8897705078125,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 595.2755737304688
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ]
+      },
+      "height": 841.8897705078125,
+      "is_scanned": false,
+      "page_number": 1,
+      "rotation": 0,
+      "width": 595.2755737304688
+    }
+  ]
+}
