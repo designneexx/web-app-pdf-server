@@ -18,11 +18,13 @@ const OUTPUT_ZIP = './ExtractTextInfoFromPDF.zip';
 app.use(cors());
 app.use(fileUpload());
 
-app.listen(PORT, function () {
-  console.log('CORS-enabled web server listening on port 80')
+app.get('/', (req, res) => {
+  res.send('Hello World!')
 })
 
-app.post('parse-pdf', ({ files }, res) => {
+app.get('/test', (req, res) => res.send('test'))
+
+app.post('/parse-pdf', ({ files }, res) => {
   const pdf = files?.pdf;
 
   if (!pdf) return res.status(400).json('No files uploaded')
@@ -53,9 +55,29 @@ app.post('parse-pdf', ({ files }, res) => {
 
         res.json(data)
 
+        console.log(parsePortfolioPdf(data))
+
         fs.unlinkSync(path);
       })
       .catch(err => console.log(err));
   })
 
 })
+
+app.listen(PORT, function () {
+  console.log('CORS-enabled web server listening on port 80')
+})
+
+function parsePortfolioPdf(structuredData) {
+  let portfolio = {}
+
+  structuredData.elements.forEach(item => {
+    const [document, section, ...content] = item.Path.split("/").filter(item => item)
+
+    const sectionItems = portfolio[section] || [];
+
+    portfolio[section] = [...sectionItems, item.Text]
+  })
+
+  console.log(portfolio)
+}
